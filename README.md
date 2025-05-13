@@ -1,16 +1,19 @@
-# converter_app
+Project Overview
+The Unit Converter App is a simple yet powerful mobile application built using Flutter that allows users to easily convert between different units of measurement. This app supports various categories of units such as length, weight, temperature, and more. It provides a user-friendly interface for seamless conversions.
 
-A new Flutter project.
+Features
+Multiple Unit Categories: Supports conversions for categories such as length, weight, temperature, volume, etc.
 
-## Getting Started
+Simple Interface: Easy-to-use interface with input fields, unit selection dropdowns, and conversion results.
 
-This project is a starting point for a Flutter application.
+Real-time Conversion: Automatically calculates the conversion result as you enter values.
 
-A few resources to get you started if this is your first Flutter project:
+Customizable Units: Easily add or remove units within each category.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Technologies Used
+Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dart: The programming language used to build the app.
+
+![con2](https://github.com/user-attachments/assets/4339e205-157a-47b2-b2e8-b192994bcad9)
+![con1](https://github.com/user-attachments/assets/e96814a7-e99f-443b-9412-9702d949038c)
